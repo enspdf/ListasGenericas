@@ -1,0 +1,9 @@
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjemploListasGenericas\EjemploListasGenericas\bin\Debug\EjemploListasGenericas.exe.config
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjemploListasGenericas\EjemploListasGenericas\bin\Debug\EjemploListasGenericas.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjemploListasGenericas\EjemploListasGenericas\bin\Debug\EjemploListasGenericas.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjemploListasGenericas\EjemploListasGenericas\obj\Debug\EjemploListasGenericas.csprojResolveAssemblyReference.cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjemploListasGenericas\EjemploListasGenericas\obj\Debug\EjemploListasGenericas.Form1.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjemploListasGenericas\EjemploListasGenericas\obj\Debug\EjemploListasGenericas.Properties.Resources.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjemploListasGenericas\EjemploListasGenericas\obj\Debug\EjemploListasGenericas.csproj.GenerateResource.Cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjemploListasGenericas\EjemploListasGenericas\obj\Debug\EjemploListasGenericas.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\EjemploListasGenericas\EjemploListasGenericas\obj\Debug\EjemploListasGenericas.pdb
